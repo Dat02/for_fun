@@ -1,0 +1,58 @@
+.hidden-text-1{
+    opacity: 0;
+    animation: flicker 2s 2s infinite forwards;
+}
+.hidden-text-2{
+    opacity: 0;
+    animation: flicker 1s 3s infinite forwards;
+}
+.hidden-text-3{
+    opacity: 0;
+    animation: flicker 1s 3s infinite forwards;
+}
+.hidden-text-4{
+    opacity: 0;
+    animation: flicker 1s 3s infinite forwards;
+}
+
+.center-div{
+    position: absolute;
+    left: 800px;
+    top: 400px;
+}
+.top-right{
+    position: absolute;
+    top: 30px;
+    right: 50px;
+}
+.top-left{
+    position: absolute;
+    top: 30px;
+    left: 50px;
+}
+.bottom{
+    position: absolute;
+    bottom: 40px;
+    left: 800px;
+}
+
+.full-screen-iframe {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    /* Place it above other content */
+}
+
+@keyframes flicker {
+
+    0%,100% {
+        opacity: 0;
+    }
+
+    20%,80% {
+        opacity: 1;
+    }
+}
