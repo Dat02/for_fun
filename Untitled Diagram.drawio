@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T06:51:12.139Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="SnbnhNSVL1RvU5N9s6zM" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-16T20:26:37.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ihIn65fYPUPjpv5JllAt" version="18.0.3" type="github">
   <diagram name="Page-1" id="ZcHCYNgmRofL6zazBNNZ">
-    <mxGraphModel dx="1434" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2116" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
         <mxCell id="7_IGHa5qgyBxuROJ8uvi-32" value="Sắp xếp theo từ điển" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="970" y="200" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7_IGHa5qgyBxuROJ8uvi-33" value="Lọc theo tiến độ dự án" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7_IGHa5qgyBxuROJ8uvi-33" value="tìm heo tiến độ dự án" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="430" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7_IGHa5qgyBxuROJ8uvi-37" value="Chỉnh sửa dự án" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -58,7 +58,7 @@
         <mxCell id="7_IGHa5qgyBxuROJ8uvi-51" value="Lọc theo ngày tháng" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="930" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7_IGHa5qgyBxuROJ8uvi-52" value="Lọc theo dự án" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7_IGHa5qgyBxuROJ8uvi-52" value="tìm theo dự án" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="790" y="910" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7_IGHa5qgyBxuROJ8uvi-54" value="Đăng xuất" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -172,7 +172,7 @@
             <mxPoint x="260.5" y="773" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7_IGHa5qgyBxuROJ8uvi-77" value="Lọc theo người được phân công" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7_IGHa5qgyBxuROJ8uvi-77" value="tìm người được phân công" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1050" y="300" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7_IGHa5qgyBxuROJ8uvi-78" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;startArrow=blockThin;startFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="7_IGHa5qgyBxuROJ8uvi-77" edge="1">
@@ -220,7 +220,7 @@
         <mxCell id="7_IGHa5qgyBxuROJ8uvi-100" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=30;" parent="1" vertex="1">
           <mxGeometry x="740" y="850" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5m1qFtkyg1CMiMVtlXFe-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="5m1qFtkyg1CMiMVtlXFe-1" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="600" as="sourcePoint" />
             <mxPoint x="880" y="790" as="targetPoint" />
