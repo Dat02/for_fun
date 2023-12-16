@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T14:27:40.153Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="khJeuBADXLlazIrQM8p5" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-16T14:28:48.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="kUJR4yTw04vWac7FnvAI" version="22.1.11" type="github">
   <diagram name="Page-1" id="ZcHCYNgmRofL6zazBNNZ">
     <mxGraphModel dx="2257" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -227,14 +227,23 @@
         <mxCell id="0cxDhC9v3tsn8AYgi3fF-14" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=45;" vertex="1" parent="1">
           <mxGeometry x="1020" y="650" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0cxDhC9v3tsn8AYgi3fF-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="0cxDhC9v3tsn8AYgi3fF-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.64;exitY=0.016;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0cxDhC9v3tsn8AYgi3fF-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="780" as="sourcePoint" />
+            <mxPoint x="310" y="730" as="sourcePoint" />
             <mxPoint x="560" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0cxDhC9v3tsn8AYgi3fF-17" value="Tạo comment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="790" width="150" height="60" as="geometry" />
+          <mxGeometry x="70" y="740" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0cxDhC9v3tsn8AYgi3fF-18" value="Xóa comment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="865" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0cxDhC9v3tsn8AYgi3fF-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="850" as="sourcePoint" />
+            <mxPoint x="530" y="660" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
